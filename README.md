@@ -22,3 +22,4 @@ How to run fluid simulation:
 
 Possible input parameters:
 ![Figure 6](https://github.com/user-attachments/assets/04773bbc-d373-45da-b6a8-a80ec15a217a) (Fig. 6)
+[Report_Designathon.pdf](https://github.com/user-attachments/files/17449350/Report_Designathon.pdf)
